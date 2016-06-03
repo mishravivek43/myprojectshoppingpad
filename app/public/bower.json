@@ -1,0 +1,39 @@
+{
+  "name": "shoppingpad-web",
+  "homepage": "https://github.com/BridgeLabzSource/shoppingpad-web",
+  "authors": [
+    "Anurag-Sing <mail.anurag0707@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [
+    "amd",
+    "es6",
+    "globals",
+    "node"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-material": "^1.0.8",
+    "angular-ui-router": "^0.2.18",
+    "ngstorage": "^0.3.10",
+    "angular-aria": "^1.5.5",
+    "angular-messages": "^1.5.5",
+    "angular-material-icons": "^0.7.0",
+    "angular-resource": "^1.5.5",
+    "angular": "1.5.5",
+    "angular-route": "^1.5.5",
+    "ngAnimate": "*"
+  },
+  "resolutions": {
+    "angular": "1.5.5"
+  }
+}

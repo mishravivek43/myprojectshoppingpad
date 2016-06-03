@@ -1,0 +1,507 @@
+
+.screen-bg {
+    width: 360px;
+    margin: auto;
+    /*margin-top: 30px;*/
+    height: 640px;
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.2), 0 0 4px 0 rgba(0, 0, 0, 0.1);
+
+}
+.app-bar-bg {
+    width: 360px;
+    height: 80px;
+    /*background-color: #9013fe;*/
+
+}
+.retail {
+    width:125px;
+    height:22px;
+    padding-top:10px;
+    padding-left: 5px;
+}
+.ShoppingPad {
+    width: 126px;
+    height: 27px;
+    font-family: Avenir-Heavy;
+    font-size: 20px;
+    color: #ffffff;
+    margin-top:41px;
+    margin-left:30px;
+}
+.status-bar-bg {
+    width: 360px;
+    height: 24px;
+    background-color: #9013fe;
+
+}
+.Rectangle-425-Copy-3 {
+    width: 150px;
+    height: 36px;
+    border-radius: 3px;
+    background-color: #650eb1;
+    margin-left:16px;
+
+}
+.Rectangle-409 {
+    width: 360px;
+    height: 30px;
+    background-color: #9013fe;
+    margin-top:455px;
+}
+
+.REGISTER {
+    width: 150px;
+    height: 42px;
+    font-family: Avenir-Heavy;
+    font-size: 16px;
+    color: #ffffff;
+
+    margin-bottom: 30px;
+    margin-top: 20px;
+
+}
+.back {
+    width: 24px;
+    height: 24px;
+    object-fit:contain;
+     margin-top:20px;
+}
+.SIGNIN {
+    width: 180px;
+    height: 42px;
+    font-family: Avenir-Heavy;
+    font-size: 16px;
+    color: #ffffff;
+    margin-bottom: 30px;
+    border-right: solid 2px #650eb1;
+}
+
+.Neque-porro-quisquam {
+    width: 233px;
+    height: 36px;
+    font-family: Avenir-Roman;
+    font-size: 13px;
+    line-height: 1.2;
+    margin-top: 550px;
+    color: #000000;
+}
+.Rectangle-602 {
+    width: 360px;
+    height: 72px;
+    background-color: #fff1b5;
+}
+#Rectangle-541 {
+    margin-left: 16px;
+    margin-top: 18px;
+    width: 328px;
+    height: 56px;
+    border-radius: 3px;
+    border:1px solid #9013fe
+}
+.Rectangle-425 {
+    width: 190px;
+    height: 36px;
+    border-radius: 3px;
+    background-color: #e9e9e9;
+    margin-right: 8px;
+    padding-top: 6px;
+    margin-left:8px;
+    padding-left: 12px;
+
+}
+.rectangle{
+    height:103px;
+}
+.Rectangle-4251 {
+    width: 140px;
+    height: 36px;
+    border-radius: 3px;
+    background-color: #f8cd1c;
+    margin-top: 19.4px;
+    margin-left: 16px;
+}
+.Rectangle-425-Copy-4 {
+    width: 129px;
+    height: 36px;
+    border-radius: 3px;
+    background-color: #e9e9e9;
+    margin-top:19.4px;
+}
+.Rectangle-4252 {
+    width: 159px;
+    height: 36px;
+    border-radius: 3px;
+    background-color: #e9e9e9;
+    padding-top: 6px;
+    padding-left: 12px;
+    margin-top: 16px;
+
+}
+#Rectangle-542{
+     margin-left: 16px;
+    margin-top: 18px;
+    width: 328px;
+    height: 56px;
+    border-radius: 3px;
+    border:1px solid #9013fe
+
+}
+.Select-Category {
+    width: 131px;
+    height: 25px;
+    font-family: Avenir-Medium;
+    font-size: 18px;
+    color: #000000;
+    margin-top:23px;
+    margin-left: 115px;
+}
+.Select-Sub-category {
+    width: 164px;
+    height: 25px;
+    font-family: Avenir-Medium;
+    font-size: 18px;
+    color: #000000;
+    margin-left: 80px;
+}
+/*.ic_add_black_24px {*/
+    /*width: 24px;*/
+    /*height: 24px;*/
+    /*object-fit: contain;*/
+    /*padding-bottom: 6px;*/
+    /*margin-top:18px;*/
+    /*margin-left: 16px;*/
+    /*border-radius: 3px;*/
+    /*border:1px solid #9013fe*/
+/*}*/
+#seprate{
+    margin-top: 50px;
+    margin-left: 155px;
+}
+
+.ic_assignment_ind_black_24px {
+    margin-left: 16px;
+    width: 20px;
+    height: 20px;
+    object-fit: contain;
+}
+.ic_perm_device_information_black_24px {
+    margin-left: 16px;
+    margin-top: 0px;
+    width: 20px;
+    height: 20px;
+    object-fit: contain;
+}
+.Upload-CSV-from-mem {
+    margin-left: 15px;
+    margin-top: 15px;
+    font-size: 16px;
+    color: #9013fe;
+}
+.Add-from-phonebook {
+    margin-top: 15px;
+    margin-left: 16px;
+
+    font-size: 16px;
+    color: #9013fe;
+
+}
+.ic_cloud_download_black_24px {
+    margin-top: 0px;
+    margin-left: 16px;
+    width: 24px;
+    height: 24px;
+    object-fit: contain;
+}
+#line{
+
+    margin-top:18px;
+    margin-left: 16px;
+    width: 144px;
+    height: 1px;
+    border:1px solid #9013fe;
+}
+.Bottom {
+    margin-top: 105px;
+    width: 360px;
+    height: 48px;
+    background-color: #9013fe;
+}
+
+
+.ADD-CUSTOMER {
+    margin-left: 115px;
+  width: 130px;
+  height: 22px;
+
+  font-size: 14px;
+  color: #ffffff;
+}
+.md-tab{text-transform: none}
+#Cust_Rectangle-602 {
+  overflow-x: hidden;
+  overflow-y: scroll;
+  height:560px;
+  width: 360px;
+
+}
+#scrollA{
+  height:560px;
+  /*width: 360px;*/
+
+
+}
+.Rectangle-425-Copy-31 {
+    width: 129px;
+    height: 36px;
+    border-radius: 3px;
+    background-color: #e9e9e9;
+    margin-top:16px;
+}
+.Path-625 {
+    width: 320px;
+    height: 0px;
+    border: solid 1px #e0e0e0;
+    margin-top:14.6px;
+
+}
+.ELECTRONICS {
+    width: 109px;
+    height: 22px;
+    font-family: Avenir-Medium;
+    font-size: 16px;
+    color: #ffffff;
+}
+.SUB-CAT-2 {
+    width: 79px;
+    height: 22px;
+    font-family: Avenir-Medium;
+    font-size: 16px;
+    color: #000000;
+}
+.SUB-CAT-3 {
+    width: 79px;
+    height: 22px;
+    font-family: Avenir-Medium;
+    font-size: 16px;
+    color: #000000;
+}
+.SUB-CAT-4 {
+    width: 79px;
+    height: 22px;
+    font-family: Avenir-Medium;
+    font-size: 16px;
+    color: #000000;
+}
+.Terms-Conditions {
+    width: 123px;
+    height: 19px;
+    font-family: cursive;
+    font-size: 14px;
+    color: #9013fe;
+    margin-top:230px;
+    margin-left:119px;
+
+}
+/*---------------------------------------------------------------------------------------------------------------*/
+/*new bussiness signup*/
+.Welcome-to-Shoppingp {
+    width: 212px;
+    height: 25px;
+    font-family: Avenir-Book;
+    font-size: 18px;
+    color: #000000;
+    margin-left: 74px;
+    margin-bottom:1px;
+}
+
+.To-list-your-busines {
+    width: 294px;
+    height: 19px;
+    font-family: Avenir-Book;
+    font-size: 14px;
+    color: #000000;
+    margin-bottom:5px;
+    margin-left:33px;
+}
+.Path-688 {
+    width: 295.1px;
+    height: 1px;
+    /*border: solid 1px #e0e0e0;*/
+    margin-top: 40px;
+}
+
+.Create-your-business {
+    width: 166px;
+    height: 19px;
+    font-family: Avenir-Book;
+    font-size: 14px;
+    color: #8e8e8e;
+}
+.Rectangle-581 {
+    width: 360px;
+    height: 8px;
+    background-color: #e9e9e9;
+    margin-top:42px;
+}
+.Proximity-to-serve {
+    width: 115px;
+    height: 19px;
+    font-family: Avenir-Medium;
+    font-size: 14px;
+    color: #000000;
+    margin-top:17px;
+    margin-left:16px;
+}
+.Shape {
+    width: 13.3px;
+    height: 13.3px;
+    background-color: #9013fe;
+
+}
+.Rectangle-532 {
+    width: 211px;
+    height: 8px;
+    border-radius: 8px;
+    margin-left:3px;
+    background-color: #e9e9e9;
+}
+.SUBMIT {
+    width: 250px;
+    height: 21px;
+    font-family: Roboto-Medium;
+    font-size: 16px;
+    color: #ffffff;
+    margin-left:160px;
+
+}
+.Rectangle-4091 {
+    width: 360px;
+    height: 48px;
+    background-color: #9013fe;
+    /*margin-bottom: 70px;*/
+    margin-top: 75px;
+}
+.PROCEED {
+    width: 72px;
+    height: 21px;
+    font-family: Roboto-Medium;
+    font-size: 16px;
+    color: #ffffff;
+}
+.chipsdemoBasicUsage .errors {
+    font-size: 12px;
+    color: #dd2c00;
+    margin-top: 10px; }
+.chipsdemoBasicUsage .custom-chips .md-chip {
+    position: relative; }
+.chipsdemoBasicUsage .custom-chips .md-chip .md-chip-remove-container {
+    position: absolute;
+    right: 4px;
+    top: 4px;
+    margin-right: 0;
+    height: 24px; }
+.chipsdemoBasicUsage .custom-chips .md-chip .md-chip-remove-container
+button.vegetablechip {
+    position: relative;
+    height: 24px;
+    width: 24px;
+    line-height: 30px;
+    text-align: center;
+    background: rgba(0, 0, 0, 0.3);
+    border-radius: 50%;
+    border: none;
+    box-shadow: none;
+    padding: 0;
+    margin: 0;
+    transition: background 0.15s linear;
+    display: block; }
+.chipsdemoBasicUsage .custom-chips .md-chip .md-chip-remove-container
+button.vegetablechip md-icon {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate3d(-50%, -50%, 0) scale(0.7);
+    color: white;
+    fill: white; }
+.chipsdemoBasicUsage .custom-chips .md-chip .md-chip-remove-container
+button.vegetablechip:hover, .chipsdemoBasicUsage .custom-chips
+.md-chip .md-chip-remove-container button.vegetablechip:focus {
+    background: rgba(255, 0, 0, 0.8); }
+.chipsdemoBasicUsage .custom-chips .md-chip:not(.md-readonly) {
+    padding-right: 5px; }
+
+input[type=number]::-webkit-inner-spin-button,
+input[type=number]::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+.Please-wait-for-One {
+    width: 322px;
+    height: 25px;
+    font-family: Avenir-Medium;
+    font-size: 19px;
+    color: #000000;
+    text-align: center;
+    margin-left: 19px;
+}
+
+.We-have-sent-an-OTP {
+    width: 294px;
+    height: 38px;
+    font-family: Avenir-Book;
+    font-size: 16px;
+    color: #000000;
+    text-align: center;
+    margin-top:-15px;
+    margin-left: 33px;
+    margin-right: 33px;
+;
+}
+
+.Welcome-to-ShoppingP {
+    width: 212px;
+    height: 25px;
+    font-family: Avenir-Medium;
+    font-size: 18px;
+    color: #000000;
+    margin-left: 74px;
+}
+
+.myForm {
+    margin-top: 111px;
+}
+
+.anurag {
+    margin-left: 16px
+}
+.loginOTP{
+    margin-left: 16px;
+}
+
+.loginFormEachInput{
+    height: 74px;
+
+}
+
+.myLoginForm{
+    margin-top: 76px;
+}
+
+.Timer {
+    width: 36px;
+    height: 19px;
+    font-family: Avenir-Book;
+    font-size: 14px;
+    text-align: center;
+    color: #000000;
+    margin-top: 33px;
+
+}
+#bounds {
+    margin-top: 10px;
+    margin-left: 270px;
+ font-size: 12px;
+  width: 90px;
+  height: 14px;
+}

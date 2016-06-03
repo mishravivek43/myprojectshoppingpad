@@ -1,0 +1,32 @@
+[
+  {
+    "id": 0,
+    "name":"AUTOMATIVE",
+    "details": [
+      "Electronics",
+      "sub-cat-2",
+      "sub-cat-3"
+    ],
+    "icon":"assets/images/add.svg"
+  },
+  {
+    "id": 1,
+    "name":"REAL ESTATE",
+    "details": [
+      "Electronics",
+      "sub-cat-2",
+      "sub-cat-3"
+    ],
+    "icon":"assets/images/add.svg"
+  },
+  {
+    "id": 2,
+    "name":"REAL ESTATE",
+    "details": [
+      "Electronics",
+      "sub-cat-2",
+      "sub-cat-3"
+    ],
+    "icon":"assets/images/add.svg"
+  }
+]

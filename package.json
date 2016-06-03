@@ -1,0 +1,37 @@
+{
+  "name": "firstaqpp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "base",
+    "project",
+    "node",
+    "express",
+    "structure"
+  ],
+  "author": "Vivek Mishra",
+  "dependencies": {
+    "angular": "^1.5.6",
+    "body-parser": "^1.15.0",
+    "bunyan": "^1.8.1",
+    "colors": "^1.1.2",
+    "compression": "^1.6.1",
+    "events": "^1.1.0",
+    "express": "^4.13.4",
+    "fs": "0.0.2",
+    "http": "0.0.0",
+    "jade": "^1.11.0",
+    "jsonwebtoken": "^5.7.0",
+    "mongoose": "^4.4.10",
+    "multiparty": "^4.1.2",
+    "util": "^0.10.3"
+  },
+  "devDependencies": {
+    "mocha": "^2.2.4",
+    "should": "^6.0.1"
+  }
+}

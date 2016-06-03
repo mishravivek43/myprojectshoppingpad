@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html xmins = "http://www.w3.org/1999/xhtml">
+<head >
+<title> Split</title>
+
+<script src="node_modules/angular/angular.js"></script>
+<script src="app/controller/myModule.js"></script>
+<script src="app/services/stringService.js"></script>
+
+<link href = "Styles.css" rel="stylesheet" />
+</head>
+<body ng-app = "myModule">
+      <div  ng-controller = "myController">
+
+        <table>
+          <tr>
+            <td>Put Your String Here</td>
+            <td> <input type ="text" ng-model="input"/> </td>
+          </tr>
+          <tr>
+            <td>Result</td>
+            <td> <input type ="text" ng-model="output" /> </td>
+          </tr>
+          <tr>
+            <td></td>
+            <td> <input type ="button" ng-click="transformString(input)" value="Process String"/> </td>
+          </tr>
+
+
+        </table>
+      </div>
+</body>
+</html>
